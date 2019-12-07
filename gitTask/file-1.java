@@ -1,3 +1,9 @@
+ HEAD
 addition-6
 addition-10
 addition-11
+=======
+addition-1
+addition-2
+addition-5
+ fork1
