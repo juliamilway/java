@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f794e915-d223-4a89-ae57-3e2b1b95964f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1V3XFp7YSRRUeTgeF9kxQcCYoM2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestApp">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.milway.Main" />
+      <module name="interface_example" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Salary.SalaryMain" />
+      <module name="interface_example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Salary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.interface2.TestApp" />
+      <module name="interface_example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.interface2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.milway.TestMain" />
+      <module name="interface_example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.milway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WagesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Salary.WagesMain" />
+      <module name="interface_example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Salary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SalaryMain" />
+      <item itemvalue="Application.TestApp" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.WagesMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestApp" />
+        <item itemvalue="Application.WagesMain" />
+        <item itemvalue="Application.SalaryMain" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f794e915-d223-4a89-ae57-3e2b1b95964f" name="Default Changelist" comment="" />
+      <created>1576482650365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576482650365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1576520324469">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="566" y="123" key="#com.intellij.ide.util.MemberChooser/0.23.1440.832@0.23.1440.832" timestamp="1576483215624" />
+    <state x="566" y="123" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833@0.23.1440.833" timestamp="1576490107926" />
+    <state x="566" y="123" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1576520324469" />
+    <state x="426" y="81" key="#toString()_Generation_Settings" timestamp="1576485789217">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="426" y="81" key="#toString()_Generation_Settings/0.23.1440.833@0.23.1440.833" timestamp="1576485789217" />
+    <state width="1332" height="154" key="GridCell.Tab.0.bottom" timestamp="1576520909813">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="190" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1576490963162" />
+    <state width="1332" height="154" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1576520909813" />
+    <state width="1332" height="154" key="GridCell.Tab.0.center" timestamp="1576520909812">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="190" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1576490963161" />
+    <state width="1332" height="154" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1576520909812" />
+    <state width="1332" height="154" key="GridCell.Tab.0.left" timestamp="1576520909812">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="190" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1576490963160" />
+    <state width="1332" height="154" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1576520909812" />
+    <state width="1332" height="154" key="GridCell.Tab.0.right" timestamp="1576520909813">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="190" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1576490963161" />
+    <state width="1332" height="154" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1576520909813" />
+    <state x="401" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1576521262766">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="401" y="287" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1576521262766" />
+    <state x="430" y="69" key="refactoring.ChangeSignatureDialog" timestamp="1576497417381">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="430" y="69" key="refactoring.ChangeSignatureDialog/0.23.1440.834@0.23.1440.834" timestamp="1576497417381" />
+  </component>
+</project>
