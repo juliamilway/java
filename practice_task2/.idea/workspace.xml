@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19cc89ac-5b8f-48e2-beba-12563f3e7b87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1V12wjTXs4yE6DIxYg2rOI8IKS6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestApp">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.milway.Main" />
+      <module name="practice_task2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.milway.lab2.test.TestApp" />
+      <module name="practice_task2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.milway.lab2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestApp" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19cc89ac-5b8f-48e2-beba-12563f3e7b87" name="Default Changelist" comment="" />
+      <created>1576406520398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576406520398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="27" key="#com.intellij.ide.util.MemberChooser" timestamp="1576588087347">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="569" y="27" key="#com.intellij.ide.util.MemberChooser/0.23.1440.832@0.23.1440.832" timestamp="1576483908574" />
+    <state x="569" y="27" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833@0.23.1440.833" timestamp="1576523576840" />
+    <state x="569" y="27" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1576588087347" />
+    <state width="1332" height="159" key="GridCell.Tab.0.bottom" timestamp="1576598955430">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="159" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1576598955430" />
+    <state width="1332" height="159" key="GridCell.Tab.0.center" timestamp="1576598955429">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="159" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1576598955429" />
+    <state width="1332" height="159" key="GridCell.Tab.0.left" timestamp="1576598955429">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="159" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1576598955429" />
+    <state width="1332" height="159" key="GridCell.Tab.0.right" timestamp="1576598955430">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="159" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1576598955430" />
+    <state x="133" y="35" key="new project wizard" timestamp="1576565288210">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="133" y="35" key="new project wizard/0.23.1440.832@0.23.1440.832" timestamp="1576482650199" />
+    <state x="133" y="35" key="new project wizard/0.23.1440.833@0.23.1440.833" timestamp="1576565288210" />
+  </component>
+</project>
