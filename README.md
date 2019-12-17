@@ -13,3 +13,7 @@ https://github.com/juliamilway/java/tree/master/LPR_6_7
 ## interface_example
 *interface_example
 https://github.com/juliamilway/java/tree/master/interface_example
+
+## practice_task
+*lab_2
+https://github.com/juliamilway/java/tree/master/practice_task2
