@@ -17,3 +17,6 @@ https://github.com/juliamilway/java/tree/master/interface_example
 ## practice_task
 *lab_2
 https://github.com/juliamilway/java/tree/master/practice_task2
+
+## LPR_12_13
+*LPR_12_13 #9
