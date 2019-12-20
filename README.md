@@ -21,3 +21,7 @@ https://github.com/juliamilway/java/tree/master/practice_task2
 ## LPR_12_13
 *LPR_12_13 #9
 https://github.com/juliamilway/java/tree/master/LPR_12_13
+
+## LPR_12_13-2
+*LPR_12_13-2 #9
+https://github.com/juliamilway/java/tree/master/LPR_12_13-2
