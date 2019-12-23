@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8649fba1-61dd-441b-98c5-cbca4aa5d557" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VFAss4Gtc5d4ObX32nLiuuvCJ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.milway.Application" />
+      <module name="LPR_17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.milway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.milway.Main" />
+      <module name="LPR_17" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.milway.TestMain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.milway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8649fba1-61dd-441b-98c5-cbca4aa5d557" name="Default Changelist" comment="" />
+      <created>1576838678041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576838678041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="77" key="#TestMain" timestamp="1576911728448">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="397" y="77" key="#TestMain/0.23.1440.835@0.23.1440.835" timestamp="1576911728448" />
+    <state x="534" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1576875827981">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="534" y="135" key="#com.intellij.ide.util.MemberChooser/0.23.1440.835@0.23.1440.835" timestamp="1576875827981" />
+    <state width="441" height="162" key="GridCell.Tab.0.bottom" timestamp="1577090764170">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="119" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1576921279163" />
+    <state width="441" height="162" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1577090764170" />
+    <state width="1332" height="119" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1576918793200" />
+    <state width="441" height="162" key="GridCell.Tab.0.center" timestamp="1577090764170">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="119" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1576921279162" />
+    <state width="441" height="162" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1577090764170" />
+    <state width="1332" height="119" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1576918793199" />
+    <state width="441" height="162" key="GridCell.Tab.0.left" timestamp="1577090764170">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="119" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1576921279162" />
+    <state width="441" height="162" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1577090764170" />
+    <state width="1332" height="119" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1576918793198" />
+    <state width="441" height="162" key="GridCell.Tab.0.right" timestamp="1577090764170">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="119" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1576921279163" />
+    <state width="441" height="162" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1577090764170" />
+    <state width="1332" height="119" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1576918793199" />
+    <state width="1332" height="235" key="GridCell.Tab.1.bottom" timestamp="1577047412869">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="235" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1576921252902" />
+    <state width="1332" height="235" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1577047412869" />
+    <state width="1332" height="235" key="GridCell.Tab.1.center" timestamp="1577047412869">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="235" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1576921252901" />
+    <state width="1332" height="235" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1577047412869" />
+    <state width="1332" height="235" key="GridCell.Tab.1.left" timestamp="1577047412868">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="235" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1576921252901" />
+    <state width="1332" height="235" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1577047412868" />
+    <state width="1332" height="235" key="GridCell.Tab.1.right" timestamp="1577047412869">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1332" height="235" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1576921252902" />
+    <state width="1332" height="235" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1577047412869" />
+    <state x="393" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1577082299465">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="393" y="237" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1577082299465" />
+    <state x="93" y="27" key="new project wizard" timestamp="1577085319094">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="93" y="27" key="new project wizard/0.23.1440.834@0.23.1440.834" timestamp="1577085319094" />
+  </component>
+</project>
